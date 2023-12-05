@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/site3/3.jpg",
+    "title": "Peepal",
+    "subtitle": "Starting at",
+    "price": "$99.00",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/site3/4.jpg",
+    "title": "Banyan",
+    "subtitle": "Starting at",
+    "price": "$79.00",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/site3/5.jpg",
+    "title": "Aloe Vera",
+    "subtitle": "Starting at",
+    "price": "$29.00",
+    "link": "/shop-grid-standard"
+  }
+]

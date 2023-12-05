@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "-20% Off All Items",
+    "subtitle": "Green Up <br/> Your Room",
+    "image": "/assets/images/site3/1.jpg",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "-40% Off All Items",
+    "subtitle": "Summer Offer <br/> 2020 Collection",
+    "image": "/assets/images/site3/2.jpg",
+    "url": "/shop-grid-standard"
+  }
+]

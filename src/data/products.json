@@ -1,0 +1,178 @@
+[
+  {
+    "id": "26",
+    "sku": "asdf148",
+    "name": "Ganda Flower",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": ["plant"],
+    "tag": ["plant"],
+    "stock": 15,
+    "image": [
+      "/assets/images/site3/tre1/11.jpg",
+      "/assets/images/site3/tre1/12.jpg",
+      "/assets/images/site3/tre1/13.jpg",
+      "/assets/images/site3/tre1/14.jpg",
+      "/assets/images/site3/tre1/15.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "27",
+    "sku": "asdf149",
+    "name": "Rose ",
+    "price": 10.6,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 190,
+    "category": ["plant"],
+    "tag": ["plant"],
+    "stock": 25,
+    "image": [
+      "/assets/images/site3/tre2/21.jpg",
+      "/assets/images/site3/tre2/22.jpg",
+      "/assets/images/site3/tre2/23.jpg",
+      "/assets/images/site3/tre2/24.jpg",
+      "/assets/images/site3/tre2/25.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "28",
+    "sku": "asdf150",
+    "name": "Jasmin",
+    "price": 12.5,
+    "discount": 20,
+    "new": true,
+    "rating": 3,
+    "saleCount": 90,
+    "category": ["plant"],
+    "tag": ["plant"],
+    "stock": 20,
+    "image": [
+      "/assets/images/site3/tre3/31.jpg",
+      "/assets/images/site3/tre3/32.jpg",
+      "/assets/images/site3/tre3/33.jpg",
+      "/assets/images/site3/tre3/34.jpg",
+      "/assets/images/site3/tre3/35.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "29",
+    "sku": "asdf151",
+    "name": "Orchid Plant",
+    "price": 14.5,
+    "discount": 30,
+    "new": false,
+    "rating": 4,
+    "saleCount": 100,
+    "category": ["plant"],
+    "tag": ["plant"],
+    "stock": 40,
+    "image": [
+      "/assets/images/site3/tre4/41.jpg",
+      "/assets/images/site3/tre4/42.jpg",
+      "/assets/images/site3/tre4/43.jpg",
+      "/assets/images/site3/tre4/44.jpg",
+      "/assets/images/site3/tre4/45.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "30",
+    "sku": "asdf152",
+    "name": "Gerbera Daisy",
+    "price": 22.5,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 120,
+    "category": ["plant"],
+    "tag": ["plant"],
+    "stock": 45,
+    "image": [
+      "/assets/images/site3/tre5/51.jpg",
+      "/assets/images/site3/tre5/52.jpg",
+      "/assets/images/site3/tre5/53.jpg",
+      "/assets/images/site3/tre5/54.jpg",
+      "/assets/images/site3/tre5/55.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "31",
+    "sku": "asdf153",
+    "name": "Lily White Flower",
+    "price": 12.5,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 20,
+    "category": ["plant"],
+    "tag": ["plant"],
+    "stock": 5,
+    "image": [
+      "/assets/images/site3/tre6/61.jpg",
+      "/assets/images/site3/tre6/62.jpg",
+      "/assets/images/site3/tre6/63.jpg",
+      "/assets/images/site3/tre6/62.jpg",
+      "/assets/images/site3/tre6/61.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "32",
+    "sku": "asdf154",
+    "name": "Daisy",
+    "price": 22.5,
+    "discount": 20,
+    "new": true,
+    "rating": 5,
+    "saleCount": 25,
+    "category": ["plant"],
+    "tag": ["plant"],
+    "stock": 7,
+    "image": [
+      "/assets/images/site3/tre7/71.jpg",
+      "/assets/images/site3/tre7/72.jpg",
+      "/assets/images/site3/tre7/73.jpg",
+      "/assets/images/site3/tre7/74.jpg",
+      "/assets/images/site3/tre7/75.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "33",
+    "sku": "asdf155",
+    "name": "Ayurvedik herbs",
+    "price": 32.5,
+    "discount": 10,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["plant"],
+    "tag": ["plant"],
+    "stock": 6,
+    "image": [
+      "/assets/images/site3/tre8/81.jpg",
+      "/assets/images/site3/tre8/82.jpg",
+      "/assets/images/site3/tre8/83.jpg",
+      "/assets/images/site3/tre8/84.jpg",
+      "/assets/images/site3/tre8/85.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  }
+]
